@@ -1,0 +1,46 @@
+body {
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-navbar-propio {
+    background-color: #28A745;
+}
+
+nav img {
+    width: 100px;
+}
+
+.bg-infobox {
+    background-color: #28A745;
+}
+
+.info-box h2 {
+    font-size: 23px;
+}
+
+footer img {
+    width: 100px;
+}
+
+footer p {
+    color: #707070;
+}
+
+.card-text i, p {
+    color: #707070;
+}
+
+.cuppon-price {
+    color: #28A745;
+}
+
+.list-group h6 {
+    color: #707070;
+}
+
+.locales {
+    font-size: 20px;
+}
